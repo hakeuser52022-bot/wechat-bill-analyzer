@@ -1,0 +1,10 @@
+{
+  "examples/data/demo_bill.xlsx": "e90a51a62b849b3ba2164db5bb96ccf9757361e47e372a18c8cf1335161b3507",
+  "examples/output/demo_budget.json": "1b7990bdb2d30a1aab57798ea8c8a5bc1e1539025a328f0a75751569393831d9",
+  "examples/output/demo_meals.json": "938cd325175eacc9ed232a45cbd03cd8731b04ab37900be5822a6b9b6cc233e2",
+  "examples/output/demo_report.xlsx": "80ae4b54ad0a11dbe5afa9b8805e13d65d2ac6bf8a798d3af6811c29fc9a81bf",
+  "examples/output/demo_segments.xlsx": "cc25bd383a6b76bb4021cda9eab3db580263864f5234c9bfe56aa14cce965058",
+  "examples/output/demo_stats.json": "06c094c2758d81f5be01f51ebeee28f30035b95da14a2e7bbf57add5e235dcec",
+  "examples/output/demo_window_school.json": "e44cd787e071545c799ce23653b3cb5283fdbb88eca7a02a3d85ba4ca069eaf2",
+  "examples/output/demo_window_summer.json": "7a3b7ca7797217dc6a6d5040bef0f6556044ce92ea76ae2703f38c9e665d3d32"
+}
